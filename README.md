@@ -17,6 +17,46 @@ The **MOOC Java Programming I** course aims to equip learners with the skills to
 - Implement effective error and exception handling.
 - Build a strong foundation for advanced Java programming topics.
 
-## Repository Structure
 
-The repository is organized to mirror the course's curriculum, with directories corresponding to each part or week. Below is the structure:
+Each `part` directory contains individual exercise files (e.g., `Exercise001.java`) with solutions to the assigned problems. All code includes comments explaining the problem statement, solution approach, and key concepts.
+
+## Key Concepts Covered
+
+The course covers essential Java programming topics, including:
+
+- **Variables, Data Types, and Operators**:
+  - Primitive types (`int`, `double`, `boolean`, etc.)
+  - String manipulation and concatenation
+  - Arithmetic, relational, and logical operators
+- **Control Structures**:
+  - Conditional statements (`if`, `else`, `switch`)
+  - Loops (`while`, `for`, `do-while`)
+- **Methods and Parameters**:
+  - Method declaration, invocation, and return types
+  - Parameter passing and method overloading
+- **Arrays and Basic Data Structures**:
+  - Working with arrays and `ArrayList`
+  - Iteration and manipulation of collections
+- **Object-Oriented Programming Basics**:
+  - Classes, objects, and constructors
+  - Encapsulation and access modifiers (`public`, `private`)
+  - Inheritance and polymorphism
+- **Exception Handling**:
+  - Try-catch blocks for error handling
+  - Throwing and catching exceptions
+  - Creating custom exception classes
+
+## Learning Outcomes
+
+Through completing this course, I have achieved the following:
+- Proficiency in writing clean, efficient, and well-documented Java code.
+- Ability to decompose complex problems into manageable components using modular programming.
+- Strong understanding of OOP principles and their application in Java.
+- Experience in debugging, testing, and validating Java programs.
+- Preparation for advanced Java topics and real-world software development.
+
+## How to Use This Repository
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/mooc-java-programming-i.git
