@@ -55,8 +55,4 @@ Through completing this course, I have achieved the following:
 - Experience in debugging, testing, and validating Java programs.
 - Preparation for advanced Java topics and real-world software development.
 
-## How to Use This Repository
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/mooc-java-programming-i.git
